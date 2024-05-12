@@ -1,0 +1,27 @@
+C:\Users\Predator\Desktop\HP\Kaye\BurgerManor\obj\Debug\BurgerManor.csproj.AssemblyReference.cache
+C:\Users\Predator\Desktop\HP\Kaye\BurgerManor\obj\Debug\BurgerManor.Login.resources
+C:\Users\Predator\Desktop\HP\Kaye\BurgerManor\obj\Debug\BurgerManor.Properties.Resources.resources
+C:\Users\Predator\Desktop\HP\Kaye\BurgerManor\obj\Debug\BurgerManor.csproj.GenerateResource.cache
+C:\Users\Predator\Desktop\HP\Kaye\BurgerManor\obj\Debug\BurgerManor.csproj.CoreCompileInputs.cache
+C:\Users\Predator\Desktop\HP\Kaye\BurgerManor\obj\Debug\BurgerManor.AdminDash.resources
+C:\Users\Predator\Desktop\HP\Kaye\BurgerManor\obj\Debug\BurgerManor.CustomerDash.resources
+C:\Users\Predator\Desktop\HP\Kaye\BurgerManor\bin\Debug\BurgerManor.exe.config
+C:\Users\Predator\Desktop\HP\Kaye\BurgerManor\bin\Debug\BurgerManor.exe
+C:\Users\Predator\Desktop\HP\Kaye\BurgerManor\bin\Debug\BurgerManor.pdb
+C:\Users\Predator\Desktop\HP\Kaye\BurgerManor\obj\Debug\BurgerManor.Register.resources
+C:\Users\Predator\Desktop\HP\Kaye\BurgerManor\obj\Debug\BurgerManor.exe
+C:\Users\Predator\Desktop\HP\Kaye\BurgerManor\obj\Debug\BurgerManor.pdb
+C:\Users\KentDumagpi\Desktop\School Docs\BurgerManor-main\BurgerManor-main\BurgerManor\BurgerManor\obj\Debug\BurgerManor.csproj.AssemblyReference.cache
+C:\Users\KentDumagpi\Desktop\School Docs\BurgerManor-main\BurgerManor-main\BurgerManor\BurgerManor\obj\Debug\BurgerManor.AdminDash.resources
+C:\Users\KentDumagpi\Desktop\School Docs\BurgerManor-main\BurgerManor-main\BurgerManor\BurgerManor\obj\Debug\BurgerManor.CustomerDash.resources
+C:\Users\KentDumagpi\Desktop\School Docs\BurgerManor-main\BurgerManor-main\BurgerManor\BurgerManor\obj\Debug\BurgerManor.DashAdmin.resources
+C:\Users\KentDumagpi\Desktop\School Docs\BurgerManor-main\BurgerManor-main\BurgerManor\BurgerManor\obj\Debug\BurgerManor.Login.resources
+C:\Users\KentDumagpi\Desktop\School Docs\BurgerManor-main\BurgerManor-main\BurgerManor\BurgerManor\obj\Debug\BurgerManor.Properties.Resources.resources
+C:\Users\KentDumagpi\Desktop\School Docs\BurgerManor-main\BurgerManor-main\BurgerManor\BurgerManor\obj\Debug\BurgerManor.Register.resources
+C:\Users\KentDumagpi\Desktop\School Docs\BurgerManor-main\BurgerManor-main\BurgerManor\BurgerManor\obj\Debug\BurgerManor.csproj.GenerateResource.cache
+C:\Users\KentDumagpi\Desktop\School Docs\BurgerManor-main\BurgerManor-main\BurgerManor\BurgerManor\obj\Debug\BurgerManor.csproj.CoreCompileInputs.cache
+C:\Users\KentDumagpi\Desktop\School Docs\BurgerManor-main\BurgerManor-main\BurgerManor\BurgerManor\obj\Debug\BurgerManor.exe
+C:\Users\KentDumagpi\Desktop\School Docs\BurgerManor-main\BurgerManor-main\BurgerManor\BurgerManor\obj\Debug\BurgerManor.pdb
+C:\Users\KentDumagpi\Desktop\School Docs\BurgerManor-main\BurgerManor-main\BurgerManor\BurgerManor\bin\Debug\BurgerManor.exe.config
+C:\Users\KentDumagpi\Desktop\School Docs\BurgerManor-main\BurgerManor-main\BurgerManor\BurgerManor\bin\Debug\BurgerManor.exe
+C:\Users\KentDumagpi\Desktop\School Docs\BurgerManor-main\BurgerManor-main\BurgerManor\BurgerManor\bin\Debug\BurgerManor.pdb
